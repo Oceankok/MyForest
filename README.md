@@ -42,13 +42,14 @@
 
 | 화면 | 설명 |
 |------|------|
-| 🔗 [홈화면](https://www.figma.com/file/...) | 오늘의 탄소 요약 + 주요 행동 안내 |
+| 🔗 [로그인화면](https://www.figma.com/design/iaHyiHnBtxA7E4WjsiMC7n/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%99%94%EB%A9%B4_%EA%B8%B0%ED%9A%8D?node-id=1-14&t=DAEPjn9Y32jitb7V-1) | 로그인페이지 |
+| 🔗 [홈화면](https://www.figma.com/design/iaHyiHnBtxA7E4WjsiMC7n/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%99%94%EB%A9%B4_%EA%B8%B0%ED%9A%8D?node-id=6-9&t=DAEPjn9Y32jitb7V-1) | 오늘의 탄소 요약 + 주요 행동 안내 |
 | 🔗 [리포트](https://www.figma.com/file/...) | 시간대별 사용량/탄소 배출 그래프 |
 | 🔗 [제한 설정](https://www.figma.com/file/...) | 앱 사용 제한 기능 설정 |
 | 🔗 [리워드 센터](https://www.figma.com/file/...) | 묘목 획득 현황, 목표 확인 |
 | 🔗 [나의 숲](https://www.figma.com/file/...) | 8x8 숲 관리 화면 |
 
-> 🔗 Figma 전체 링크: [View UI Prototype](https://www.figma.com/file/...)
+> 🔗 Figma 전체 링크: [https://www.figma.com/design/iaHyiHnBtxA7E4WjsiMC7n/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%99%94%EB%A9%B4_%EA%B8%B0%ED%9A%8D?node-id=0-1&t=DAEPjn9Y32jitb7V-1)
 
 ---
 
