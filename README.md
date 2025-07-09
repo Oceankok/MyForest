@@ -79,11 +79,14 @@
 📁 docs/
 │  ├─ 기능정의서.md
 │  ├─ 화면흐름도.md
-│  └─ 회고.md
+│  └─ 📁 figma/
+│        ├─ home.png
+│        ├─ report.png
+│        └─ forest.png
 📁 wireframes/
-│  ├─ home.png
-│  ├─ report.png
-│  └─ forest.png
+│  ├─ home1.png
+│  ├─ report1.png
+│  └─ forest1.png
 📁 frontend/
 │  └─ (추후 앱 개발 시 React Native 코드)
 README.md
