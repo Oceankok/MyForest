@@ -47,7 +47,7 @@
 | 🔗 [리포트](https://www.figma.com/design/iaHyiHnBtxA7E4WjsiMC7n/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%99%94%EB%A9%B4_%EA%B8%B0%ED%9A%8D?node-id=29-5&t=G4mQ7VdBFVYJZoaM-1) | 시간대별 사용량/탄소 배출 그래프 |
 | 🔗 [제한 설정](https://www.figma.com/file/...) | 앱 사용 제한 기능 설정 |
 | 🔗 [리워드 센터](https://www.figma.com/file/...) | 묘목 획득 현황, 목표 확인 |
-| 🔗 [나의 숲](https://www.figma.com/file/...) | 8x8 숲 관리 화면 |
+| 🔗 [나의 숲](https://www.figma.com/design/iaHyiHnBtxA7E4WjsiMC7n/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%99%94%EB%A9%B4_%EA%B8%B0%ED%9A%8D?node-id=41-140&t=AILeyeOHXhNZqiRu-1) | 10x10 숲 관리 화면 |
 
 > 🔗 Figma 전체 링크: [https://www.figma.com/design/iaHyiHnBtxA7E4WjsiMC7n/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%99%94%EB%A9%B4_%EA%B8%B0%ED%9A%8D?node-id=0-1&t=DAEPjn9Y32jitb7V-1)
 
