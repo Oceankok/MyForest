@@ -83,10 +83,26 @@
 │        ├─ home.png
 │        ├─ report.png
 │        └─ forest.png
-📁 wireframes/
-│  ├─ home1.png
-│  ├─ report1.png
-│  └─ forest1.png
-📁 frontend/
-│  └─ (추후 앱 개발 시 React Native 코드)
+📁 app/
+│  ├─📁 (tabs)
+│        ├─ _layout.tsx
+│        ├─ explore.tsx
+│        └─ index.png
+│  ├─📁 screens
+│        ├─ ForestScreen.tsx
+│  └─ _layout.tsx
+📁 components/
+   ├─ ForestGrid.tsx
+   └─ Tile.tsx
 README.md
+
+---
+
+## 실행 방법 (개발 환경)
+
+```bash
+git clone https://github.com/Oceankok/MyForest.git
+cd MyForest/MyForestApp
+npm install
+npm start
+
