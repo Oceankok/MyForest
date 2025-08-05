@@ -1,27 +1,10 @@
 import { Tabs } from 'expo-router';
-import React from 'react';
-import { Platform } from 'react-native';
-import { Colors } from '@/constants/Colors';
-import { useColorScheme } from '@/hooks/useColorScheme';
 
-export default function TabLayout() {
-  const colorScheme = useColorScheme();
-
+export default function TabsLayout() {
   return (
-    <Tabs
-      screenOptions={{
-        tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
-        headerShown: false,
-        tabBarStyle: Platform.select({
-          ios: {
-            position: 'absolute',
-          },
-          default: {},
-        }),
-      }}
-    >
+    <Tabs>
       <Tabs.Screen name="index" options={{ title: '홈' }} />
-      <Tabs.Screen name="explore" options={{ title: '탐색' }} />
+      <Tabs.Screen name="setting" options={{ title: '설정' }} />
     </Tabs>
   );
 }
